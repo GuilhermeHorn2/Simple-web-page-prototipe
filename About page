@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>About</title>
+</head>
+<body>
+<img src="./images/icon.jpg" alt="icon" width="250" id="logo">
+<h2>Coffe Junkie</h2>
+<ul>
+ <li><a href="index.html" target="blank">Home</a></li>
+ <li><a href="about.html" target="blank">About</a></li>
+ <li><a href="numbers.html" target="blank">Numbers</a></li>
+ <li><a href="contact.html" target="blank">Contact</a></li>
+</ul>
+<br>
+<img src="./images/big pic.jpg" width="100%" alt="">
+<br>
+<h3>About Us</h3>
+<p style="width:50%">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique error commodi nulla corporis vel vero illo ullam. Ut expedita voluptates perferendis et voluptate voluptatibus facilis! Neque vero impedit assumenda a. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, minus ratione officia eaque omnis exercitationem aperiam? Omnis quibusdam dolorum, facilis magni ut sunt perferendis molestiae sequi, similique, doloremque veniam expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, vitae? Similique saepe numquam ut! Autem aperiam animi molestiae sit, at unde nesciunt recusandae voluptate, suscipit ea laudantium, dolor labore blanditiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos inventore voluptatibus aperiam, obcaecati, cupiditate, itaque ex praesentium nihil consequuntur hic voluptates cum voluptatem quaerat illum accusamus consequatur similique sint? Accusamus. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam, consequuntur praesentium reiciendis quia accusantium quibusdam repellat delectus modi tenetur quae dignissimos blanditiis, obcaecati eius quaerat dolore nam? Blanditiis, nulla eveniet.</p>
+<br>
+<br>
+<br>
+<p>copyright &copy;2021</p>
+<h4><a href="#logo">Back to the top</a></h4>
+</body>
+</html>
+
+
